@@ -153,7 +153,7 @@ section{position:relative;}
   height:76px;
 }
 .brand{display:flex;align-items:center;gap:10px;}
-.brand img{height:30px;width:auto;}
+.brand img{height:100px;width:auto;}
 .brand .logo-light-img{display:block;}
 .brand .logo-dark-img{display:none;}
 html[data-theme="dark"] .brand .logo-light-img{display:none;}
